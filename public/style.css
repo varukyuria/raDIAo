@@ -1,0 +1,14 @@
+html, body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+#main {
+  text-align: center;
+}
+.player_butt {
+  font-size: 80px;
+  background-color: aqua;
+  border-radius: 8px;
+}
